@@ -1,0 +1,17 @@
+E:\Shilpa\Glocery\Glocery.Entities\bin\Debug\netcoreapp2.2\Glocery.Entities.deps.json
+E:\Shilpa\Glocery\Glocery.Entities\bin\Debug\netcoreapp2.2\Glocery.Entities.dll
+E:\Shilpa\Glocery\Glocery.Entities\bin\Debug\netcoreapp2.2\Glocery.Entities.pdb
+E:\Shilpa\Glocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\Glocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\Glocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.AssemblyInfo.cs
+E:\Shilpa\Glocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.dll
+E:\Shilpa\Glocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.pdb
+E:\Shilpa\Grocery\Glocery.Entities\bin\Debug\netcoreapp2.2\Glocery.Entities.deps.json
+E:\Shilpa\Grocery\Glocery.Entities\bin\Debug\netcoreapp2.2\Glocery.Entities.dll
+E:\Shilpa\Grocery\Glocery.Entities\bin\Debug\netcoreapp2.2\Glocery.Entities.pdb
+E:\Shilpa\Grocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.csprojAssemblyReference.cache
+E:\Shilpa\Grocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\Grocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\Grocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.AssemblyInfo.cs
+E:\Shilpa\Grocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.dll
+E:\Shilpa\Grocery\Glocery.Entities\obj\Debug\netcoreapp2.2\Glocery.Entities.pdb

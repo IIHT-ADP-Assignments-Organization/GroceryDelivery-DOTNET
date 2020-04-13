@@ -1,0 +1,9 @@
+E:\Shilpa\Glocery\Glocery.BusinessLayer\bin\Debug\netcoreapp3.1\Glocery.BusinessLayer.deps.json
+E:\Shilpa\Glocery\Glocery.BusinessLayer\bin\Debug\netcoreapp3.1\Glocery.BusinessLayer.dll
+E:\Shilpa\Glocery\Glocery.BusinessLayer\bin\Debug\netcoreapp3.1\Glocery.BusinessLayer.pdb
+E:\Shilpa\Glocery\Glocery.BusinessLayer\obj\Debug\netcoreapp3.1\Glocery.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\Glocery\Glocery.BusinessLayer\obj\Debug\netcoreapp3.1\Glocery.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\Glocery\Glocery.BusinessLayer\obj\Debug\netcoreapp3.1\Glocery.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\Glocery\Glocery.BusinessLayer\obj\Debug\netcoreapp3.1\Glocery.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\Glocery\Glocery.BusinessLayer\obj\Debug\netcoreapp3.1\Glocery.BusinessLayer.dll
+E:\Shilpa\Glocery\Glocery.BusinessLayer\obj\Debug\netcoreapp3.1\Glocery.BusinessLayer.pdb
